@@ -1,4 +1,4 @@
-import { default as ol } from "./omnilang.mjs";
+import { default as ol } from "./index.mjs";
 
 /*
 WHAT IT DOES:
